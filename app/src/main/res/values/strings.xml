@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseNotification</string>
+    <string name="my_notification_channel">notificationChannelID</string>
+</resources>
